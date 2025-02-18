@@ -1,0 +1,62 @@
+Getting Started
+VM3197:19 Python Programming Language
+VM3197:19 Python Control Flow
+VM3197:19 Inbuilt Data Structures In Python
+VM3197:19 Functions In Python
+VM3197:19 Function Practice Question
+VM3197:19 Inbuilt Data Structure - Practice Question
+VM3197:19 Importing Creating Modules And Packages
+VM3197:19 File Handling In Python
+VM3197:19 Exception Handling In Python
+VM3197:19 OOPS Concepts With Classes And Objects
+VM3197:19 Advance Python
+VM3197:19 Data Analysis With Python
+VM3197:19 Working With Sqlite3
+VM3197:19 Logging In Python
+VM3197:19 Python Multi Threading and Multi Processing
+VM3197:19 Memory Management With Python
+VM3197:19 Getting Started With Flask Framework
+VM3197:19 Getting Started With Streamlit Web Framework
+VM3197:19 Getting Started With Statistics
+VM3197:19 Introduction To Probability
+VM3197:19 Probability Distribution Function For Data
+VM3197:19 Inferential Statistics
+VM3197:19 Feature Engineering
+VM3197:19 Exploratory Data Analysis and Feature Engineering
+VM3197:19 Introduction To Machine Learning
+VM3197:19 Understanding Complete Linear Regression Indepth Intuition And Practicals
+VM3197:19 Ridge,Lasso And ElasticNet ML ALgorithms
+VM3197:19 Steps By Step Project Implementation With LifeCycle OF ML Project
+VM3197:19 Logistic Regression
+VM3197:19 Support Vector Machines
+VM3197:19 Naive Bayes Theorem
+VM3197:19 K Nearest Neighbour ML Algorithm
+VM3197:19 Decision Tree Classifier And Regressor
+VM3197:19 Random Forest Machine Learning
+VM3197:19 Adaboost Machine Learning Algorithm
+VM3197:19 Gradient Boosting
+VM3197:19 Xgboost Machine Learning Algorithms
+VM3197:19 Unsupervised Machine Learning
+VM3197:19 PCA
+VM3197:19 K Means Clustering Unsupervised ML
+VM3197:19 Hierarichal Clustering
+VM3197:19 DBSCAN Clustering
+VM3197:19 Silhoutte Clustering
+VM3197:19 Anomaly Detection Machine Learning Algorithms
+VM3197:19 Dockers For Beginners
+VM3197:19 GIT For Beginners
+VM3197:19 End To End Machine Learning Project With AWS,Azure Deployment
+VM3197:19 End To End MLOPS Projects With ETL Pipelines- Building Network Security System
+VM3197:19 MLFlow Dagshub and BentoML-Complete ML Project Lifecycle
+VM3197:19 NLP for Machine Learning
+VM3197:19 Deep Learning
+VM3197:19 End to End Deep Learning Project Using ANN
+VM3197:19 NLP With Deep Learning
+VM3197:19 Simple RNN Indepth Intuition
+VM3197:19 End To End Deep Learning Project With Simple RNN
+VM3197:19 LSTM And GRU RNN Indepth Intuition
+VM3197:19 LSTM And GRU End To End Deep Learning Project- Predicting Next Word
+VM3197:19 Bidirectional RNN Architecture And Indepth Intuition
+VM3197:19 Encoder Decoder |Sequence To Sequence Architecture
+VM3197:19 Attention Mechanism- Seq2Seq Networks
+VM3197:19 Transformers
